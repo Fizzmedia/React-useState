@@ -4,6 +4,7 @@ import StepCounter from "./components/StepCounter.jsx"
 import Multiples from "./components/Multipless.jsx"
 import StarRating from "./components/StarRating.jsx"
 import PasswordToggle from "./components/PasswordToggle.jsx"
+import ColorPicker from "./components/ColorPicker.jsx"
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Multiples />
       <StarRating />
       <PasswordToggle />
+      <ColorPicker />
     </>
   )
 }
