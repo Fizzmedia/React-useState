@@ -5,6 +5,7 @@ import Multiples from "./components/Multipless.jsx"
 import StarRating from "./components/StarRating.jsx"
 import PasswordToggle from "./components/PasswordToggle.jsx"
 import ColorPicker from "./components/ColorPicker.jsx"
+import TabSwitcher from "./components/TabSwitcher.jsx"
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <StarRating />
       <PasswordToggle />
       <ColorPicker />
+      <TabSwitcher />
     </>
   )
 }
