@@ -38,7 +38,7 @@ function StepCounter() {
           onClick={decrease}
           className="px-5 py-2 rounded-lg text-white font-semibold bg-red-500 hover:bg-red-600"
         >
-          −
+          -
         </button>
 
         <button
